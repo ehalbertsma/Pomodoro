@@ -1,5 +1,8 @@
 # Pomodoro
-DIY pomodoro timer
+DIY pomodoro timer. Clone the repo and run it in Python 3. Requires `afplay` which is built into MacOS. 
+
+![screenshot.png]
+
 
 
 ## future features
